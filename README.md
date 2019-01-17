@@ -70,7 +70,7 @@ Note: if you are using a python2.x version, point the -p value towards your pyth
 ##### (If you're on a mac) Make sure xcode tools are installed
 
 ```
-$ xcode-select --install
+$ xcode-select --install 
 ```
 
 ##### Add Environment Variables
